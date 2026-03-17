@@ -76,13 +76,13 @@ As branches deste repositório representam as diferentes trilhas e disciplinas a
 
 ### 📖 Sumário
 
-🔹 **[Programação-Imperativa](https://github.com/residencia18/240004-albert-silva-de-jesus/tree/Programacao-Imperativa)**  
+🔹 **[Programação-Imperativa](https://github.com/residencia18/240004-albert-silva-de-jesus/tree/main/modulo-01-programacao-imperativa)**  
 Introdução à lógica de programação e paradigmas fundamentais utilizando **C++**.
 
-☕ **[Trilha-Java](https://github.com/residencia18/240004-albert-silva-de-jesus/tree/Trilha-Java)**  
+☕ **[Trilha-Java](https://github.com/residencia18/240004-albert-silva-de-jesus/tree/main/modulo-02-programacao-orientada-objetos)**  
 Fundamentos da linguagem **Java**, incluindo **programação orientada a objetos, coleções e tratamento de exceções**.
 
-🚀 **[Java-Avançado](https://github.com/residencia18/240004-albert-silva-de-jesus/tree/Java-Avancado)**  
+🚀 **[Java-Avançado](https://github.com/residencia18/240004-albert-silva-de-jesus/tree/main/modulo-04-desenvolvimento-avancado)**  
 Tópicos avançados em **Java**, como **desenvolvimento de APIs REST, Spring Boot, Hibernate e JPA**.
 
 🐍 **[Trilha-Python](https://github.com/residencia18/240004-albert-silva-de-jesus/tree/Trilha-Python)**  
